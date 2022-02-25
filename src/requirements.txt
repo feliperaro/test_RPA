@@ -1,0 +1,10 @@
+selenium
+time
+os
+json
+pandas
+smtplib
+email.mime.multipart
+email.mime.text
+email.mime.base
+email
